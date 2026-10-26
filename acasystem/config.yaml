@@ -1,7 +1,7 @@
 # Acasystem come app di HA OS (REP-20261026-005). `version` è il tag dell'immagine:
 # si alza solo DOPO aver pubblicato ghcr.io/acamemo/acasystem:<versione>.
 name: Acasystem
-version: "0.9.30"
+version: "0.9.30.1"
 slug: acasystem
 description: Interfaccia Acasystem per Home Assistant, per le app Acasystem di Windows e Android.
 url: https://github.com/acamemo/acasystem-releases
