@@ -1,5 +1,15 @@
 # Novità
 
+## 0.9.34
+
+- Account personali con registrazione libera sulla centrale pronta e dispositivi nominati, con accessi indipendenti e revoca del singolo dispositivo.
+- Profili sincronizzati con ordine comune dei widget, griglia adattiva e recupero delle configurazioni precedenti.
+- Modifiche protette fra dispositivi, bozze offline conservate e conflitti visibili.
+- Tavano a schermo intero con attività della casa, persona/dispositivo, filtri, dettagli e copia o esportazione depurata.
+- Comandi tracciati con esito incerto esplicito e senza reinvio automatico dopo timeout.
+- Foto account con ritaglio oppure colore; copertina visibile soltanto nella vista account.
+- Richiede il bundle web0.9.34 incluso nel server; i client legacy ricevono richiesta di aggiornamento per i vecchi salvataggi globali. Hardware Android/iPhone resta da collaudare.
+
 ## 0.9.33
 
 - Registrazione del primo proprietario, accesso e completamento della casa nella webapp ACA condivisa.
