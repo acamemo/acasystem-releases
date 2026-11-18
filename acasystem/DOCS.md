@@ -4,7 +4,7 @@ Acasystem è l'interfaccia di MeMo Srl per Home Assistant. Questa app installa s
 
 ## Come si usa
 
-1. Con HAOS già installato sul mini PC, installa e avvia questa app. La release 0.9.34 comprende uno script di prima installazione per la console host di HAOS 18.4; non installa HAOS sul disco e non aggiorna versioni precedenti. Un'app già installata si aggiorna dal Supervisor dopo il backup.
+1. Con HAOS già installato sul mini PC, installa e avvia questa app. Aggiungi questo repository dallo store delle app di Home Assistant e installa Acasystem. Un'app già installata si aggiorna dal Supervisor dopo il backup.
 2. Sul tablet o sul PC apri il nuovo client Acasystem e scrivi l'indirizzo IP del mini PC, porta 3002. In alternativa apri `http://IP:3002/` nel browser.
 3. Se la casa è nuova, crea il primo proprietario dalla webapp ACA, accedi e completa il nome della casa. Sulla centrale pronta scegli **Crea un nuovo utente della casa** oppure **Accedi al mio account**; la creazione di nuovi membri richiede il servizio tecnico ACA pronto. Ogni dispositivo usa un proprio accesso e un nome riconoscibile.
 4. In **Sistema → QR Code** mostra il QR di collegamento per un altro dispositivo. Android può scansionarlo dal client; su iPhone o senza app si apre il browser. Il QR contiene soltanto l'indirizzo della centrale: l'accesso rimane necessario.
@@ -21,7 +21,7 @@ Tavano mostra le attività di tutti i membri, senza concedere modifica dei profi
 
 In Sistema premi l'icona account per scegliere colore o foto con ritaglio e rotazione. La foto sostituisce il cerchio colorato; lo sfondo account appare soltanto nella vista account.
 
-La versione0.9.34 è verificata con test software, browser PC/telefono e HA simulato. Installazione HAOS su mini PC fisico, scanner Android e Safari/iPhone fisici restano da collaudare.
+La versione 0.9.76.1 è una candidata verificata con test software, browser PC/telefono, HA simulato e una VM HAOS 18.4. Installazione HAOS su mini PC fisico, scanner Android e Safari/iPhone fisici restano da collaudare.
 
 ## Dettagli
 

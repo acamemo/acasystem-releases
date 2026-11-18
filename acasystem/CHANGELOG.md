@@ -1,5 +1,14 @@
 # Novità
 
+## 0.9.76.1
+
+- Widget per singolo dispositivo per luci, prese e interruttori, clima, tapparelle e tende, ventilatori, serrature, allarme, videocamere, multimedia, sensori, energia e auto, con i comandi che il dispositivo offre davvero in Home Assistant.
+- Catalogo dei widget dalla Home, con anteprima e conferma prima di aggiungerli.
+- «Trova dispositivi» e aggiunta guidata, compresi i dispositivi Sonoff in rete locale.
+- Il servizio tecnico che collega Acasystem a Home Assistant si attiva e si ripara da solo quando possibile; «Ripara il servizio» resta come riserva.
+- Nuovo aspetto in vetro bianco su paesaggio, con fallback opaco quando il vetro non è supportato.
+- Versione candidata: provata con Home Assistant simulato e in una VM HAOS 18.4; dispositivi fisici, mini PC e telefoni reali restano da collaudare.
+
 ## 0.9.34
 
 - Account personali con registrazione libera sulla centrale pronta e dispositivi nominati, con accessi indipendenti e revoca del singolo dispositivo.
